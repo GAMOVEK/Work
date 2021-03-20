@@ -1,0 +1,27 @@
+html, body {
+margin: 10px 50px 20px 50px;
+padding: 0;
+}
+
+body {
+	background-image: url("low_poly_background.jpg");
+	background-position: center;
+}
+
+table,
+td {
+    border: 1px solid #333;
+}
+
+thead,
+tfoot {
+    background-color: #333;
+    color: #fff;
+}
+
+
+#header{
+   height:150px;
+   width:100%;
+background: url("banniere.png") 50% 50% no-repeat;
+}
